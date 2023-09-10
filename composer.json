@@ -1,0 +1,6 @@
+{
+    "require": {
+        "htmlburger/carbon-fields": "^3.3",
+        "larapack/dd": "^1.1"
+    }
+}
