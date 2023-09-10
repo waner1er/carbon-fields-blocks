@@ -2,7 +2,7 @@
 A Wordpress plugin to make cpt's taxonomies and block gutenberg with carbon fields 
 
 * git clone 
-* go to carbon-fields-blocks folder
+* go to wan-carbon-fields-blocks folder
 * composer install 
 
 
